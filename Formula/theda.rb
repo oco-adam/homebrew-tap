@@ -1,7 +1,7 @@
 class Theda < Formula
   desc "CLI for the Theda application platform"
   homepage "https://github.com/oco-adam/theda"
-  url "https://github.com/oco-adam/theda.git", tag: "v0.1.1"
+  url "https://github.com/oco-adam/theda.git", tag: "v0.1.2"
   license "MIT"
 
   depends_on "opam" => :build
